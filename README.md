@@ -1,7 +1,6 @@
 ### Olá! EU sou a Carine Guzi Santos👋
 
 - 🌱 Estou estudando python 
-- 📧 Meu email: carine.guzzicg@gmail.com
 
 <div align="center">
   <a href="https://github.com/carineguzzi">
