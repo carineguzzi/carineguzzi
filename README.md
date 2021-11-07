@@ -1,4 +1,4 @@
-### Olá! EU sou a Carine Guzi Santos👋
+### Olá! Eu sou a Carine Guzi Santos👋
 
 - 🌱 Estou estudando python 
 
