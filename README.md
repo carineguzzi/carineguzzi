@@ -1,6 +1,7 @@
-### Olá! Eu sou a Carine Guzi Santos👋
+### Olá! Eu sou Carine Guzzi Santos👋
 
-- 🌱 Estou estudando python 
+- 🌱 Estou estudando python;
+- ◻  Estou estudando HTML e CSS
 
 <div align="center">
   <a href="https://github.com/carineguzzi">
@@ -10,7 +11,7 @@
 
 <div> 
   <a href="https://www.instagram.com/carinegz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carineguzzi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carinegz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
