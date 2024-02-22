@@ -1,7 +1,7 @@
 ### Olá! Eu sou Carine Guzzi Santos👋
 
 - 🌱 Estou estudando python;
-- ◻  Estou estudando HTML e CSS
+- ◻  Estou estudando HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/carineguzzi">
